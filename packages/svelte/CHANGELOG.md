@@ -1,5 +1,13 @@
 # svelte
 
+## 5.56.2
+
+### Patch Changes
+
+- fix: ignore declaration tags for animation directive ([#18366](https://github.com/sveltejs/svelte/pull/18366))
+
+- fix: reject pending async deriveds on discard ([#18308](https://github.com/sveltejs/svelte/pull/18308))
+
 ## 5.56.1
 
 ### Patch Changes
